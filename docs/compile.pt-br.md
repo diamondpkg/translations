@@ -13,7 +13,7 @@ opções comuns: [-o|--output] [--output-style]
 Este comando compila um arquivo com suporte do diamond completo (importadores, funções, etc.).
 
 ## Comandos
-* **`diamond compile <entrade>`** 
+* **`diamond compile <entrada>`** 
 
   Compila o arquivo dado e exibe o CSS resultante em `stdout`.
 
